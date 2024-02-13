@@ -1,0 +1,14 @@
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\bin\Debug\net6.0\LuciansLusciousLasagna.exe
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\bin\Debug\net6.0\LuciansLusciousLasagna.deps.json
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\bin\Debug\net6.0\LuciansLusciousLasagna.runtimeconfig.json
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\bin\Debug\net6.0\LuciansLusciousLasagna.dll
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\bin\Debug\net6.0\LuciansLusciousLasagna.pdb
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.AssemblyInfoInputs.cache
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.AssemblyInfo.cs
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.csproj.CoreCompileInputs.cache
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.dll
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\refint\LuciansLusciousLasagna.dll
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.pdb
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\LuciansLusciousLasagna.genruntimeconfig.cache
+C:\Users\Vince\source\repos\HelloWorldWork\ExercismWork\LuciansLusciousLasagna\obj\Debug\net6.0\ref\LuciansLusciousLasagna.dll
